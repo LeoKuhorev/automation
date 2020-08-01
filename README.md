@@ -31,4 +31,4 @@ pylint = "^2.5.3"
 
 [Link to code](./automation/automation.py)
 
-[Link to PR](https://github.com/LeoKuhorev/web-scraper/pull/2)
+[Link to PR](https://github.com/LeoKuhorev/automation/pull/2)
