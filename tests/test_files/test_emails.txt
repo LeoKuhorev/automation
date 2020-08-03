@@ -1,0 +1,4 @@
+test@company.com
+test-test@company.com
+test@another-company.com
+notemail.company.com
